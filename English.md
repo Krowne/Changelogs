@@ -1,6 +1,6 @@
 ### Version 2.5.5
 
-![Alt text](https://github.com/Krowne/Changelogs/blob/master/del.png?raw=true "Captures")
+![Alt text](https://raw.githubusercontent.com/Krowne/Changelogs/master/del.png)
 
 You can use the [editor on GitHub](https://github.com/Krowne/Changelogs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
