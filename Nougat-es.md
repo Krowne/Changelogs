@@ -9,3 +9,5 @@ Además actualmente Xposed para Nougat, no es una versión final de robo89 y tie
 Así que por favor, paciencia, porque si todos insistís con lo mismo, lo único que vais a conseguir, es que se me quiten las ganas de trabajar en ello.
 
 Un saludo, y gracias a todos los que apoyan mi trabajo.
+
+Krowne.
