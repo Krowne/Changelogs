@@ -1,3 +1,5 @@
+# Nougat für KMod FWA
+
 Aufgrund der ständigen Forderung der Leute, KMod FWA für Nougat und höher zu anzupassen, habe ich mich dazu entschieden diesen Artikel zu schreiben.
 
 Der Grund, weshalb dieses Modul nicht funktioniert, ist das Nougat die Berechtigung MODE_WORLD_READABLE geändert hat, welche von Xposed genutzt wird um Einstellungen von Xposed zu lesen, und nicht mehr genutzt werden kann. Deshalb muss ich MODE_PRIVATE nutzen, was mit Xposed nicht funktioniert.
